@@ -1,12 +1,13 @@
 ### Hello There!
 
-I am Jisu. I am a beginner developer, here some info about me
+I am Jisu. I am a beginner developer, here is some info about me
 - 🙃 Pronouns: She/Her/Hers
 - 👀 I’m interested in c#. I know JavaScript, HTML and CSS
 
 
 #### 📫 How to reach me
 - Email: [`Click To Email!`](mailto:jspark474@gmail.com)
+- LinkedIn
 
 ### Tools
 
