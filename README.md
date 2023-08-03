@@ -2,12 +2,14 @@
 
 I am Jisu. I am a beginner developer, here is some info about me
 - 🙃 Pronouns: She/Her/Hers
-- 👀 I’m interested in c#. I know JavaScript, HTML and CSS
+- 👩‍💻 Aspiring VR/AR Developer
 
 
-#### 📫 How to reach me
-- Email: [`Click To Email!`](mailto:jspark474@gmail.com)
-- LinkedIn
+#### 📫 Connect with me
+Let's collaborate and exchange ideas! Feel free to connect with me on:
+- [`Click To Email!`](mailto:jspark474@gmail.com)
+
+Feel free to reach out if you have any questions, want to collaborate on projects, or just want to say hello! 🤗
 
 ### Tools
 
